@@ -1,4 +1,4 @@
-We need a maximum of 16 prizes
+We need a minimum of 16 prizes
 
 | **Description** |**Qty**|
 |-----------------|:----:|
