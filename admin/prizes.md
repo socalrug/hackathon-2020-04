@@ -6,6 +6,9 @@ We need a minimum of 16 prizes
 | Book: Pattern Recognition and Machine Learning | 1 |
 | Book: Big Data | 1 |
 | Book: Extending R | 1 |
+| Book: Interactive Web-Based Data Visualization with R, plotly, and shiny | 1 |
+| Book: Statistical Inference via Data Science | 1 |
+| Book: Parallel Computing for Data Science | 1 |
 | Echo Dot (3rd Gen)| 1 |
 | AWS Credits ($125) | 2 |
 | Echo Auto | 1 |
@@ -16,5 +19,4 @@ We need a minimum of 16 prizes
 | Wireless Earbuds | 1 |
 
 Note:
-* Some of the books may not arrive in time
-* AWS credits have not been confirmed
+*
