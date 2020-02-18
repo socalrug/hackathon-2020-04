@@ -17,6 +17,9 @@ We need a minimum of 16 prizes
 | DataScience Go tickets (2020) | 1 |
 | Quadcopter with camera | 2 |
 | Wireless Earbuds | 1 |
+| 360-degree Camera | 1 |
+| Apple iPad mini MiFi Bundle | 1 |
+| Ecovac Robotic Vacuum | 1 |
 
 Note:
 *
