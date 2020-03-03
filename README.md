@@ -22,7 +22,7 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 
 ## Event Details
 
-**When**: TBD
+**When**: 2020-04-18 to 2020-04-19
 
 * Saturday: 8:30 AM - 10:00 PM
 * Sunday: 8:30 AM - 4:00 PM
@@ -32,7 +32,17 @@ This event is open to data scientists, enthusiasts and hackers of all levels, fr
 * [Google Maps](https://www.google.com/maps/place/The+Paul+Merage+School+of+Business/@33.6468381,-117.8402619,17z/data=!3m1!4b1!4m5!3m4!1s0x80dcde0edc8d16f9:0x42b754c2a210a0e0!8m2!3d33.6468337!4d-117.8380732)
 * [Directions & Parking Information](https://github.com/ocrug/hackathon-2020-04/blob/master/parking/Parking%20and%20Building%20Location.pdf)
 * Rooms
-    * TDB
+
+    * Saturday 4/18:
+        * 08:00 AM – 10:00 PM: MPAA 100 (seats 100)
+        * 08:00 AM – 01:00 PM: SB2 117 (seats 67) & SB2 122 (seats 67)
+        * 01:30 PM – 10:00 PM: MPAA 120 (seats 55) & MPAA 130 (seats 55)
+        * 08:00 AM – 10:00 PM: Breakout rooms 2013, 2015, 2017, 2019, 3100, 3104, 2325, 3305
+    * Sunday 4/19:
+        * 08:00 AM – 2:00 PM: MPAA 100 (seats 100)
+        * 08:00 AM – 2:00 PM: MPAA 120 (seats 55) & MPAA 130 (seats 55)
+        * 08:00 AM – 2:00 PM: Breakout rooms 2013, 2015, 2017, 2019, 3100, 3104, 2325, 3305
+        * 02:00 PM – 4:00 PM: SB1 1200 (seats 300)
 
 **Registration**
 
